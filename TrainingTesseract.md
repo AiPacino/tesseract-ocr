@@ -1,0 +1,1 @@
+For Tesseract 2, see [TrainingTesseract2](TrainingTesseract2.md), for Tesseract 3, see [TrainingTesseract3](TrainingTesseract3.md)
